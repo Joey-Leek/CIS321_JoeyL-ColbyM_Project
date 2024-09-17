@@ -1,0 +1,80 @@
+Included in the Project:
+•	The development of a user-friendly interface that will allow users to create and log in to accounts with their basic information including name, address, and contact details.
+•	Implement a graphic representation of the hotel floor plan for visual room availability with green rooms being available and red being booked.
+•	A reservation system allowing users to search for available rooms based on dates and room preferences. 
+•	The reservation process will also allow the hotel staff to add new rooms, update existing room details, and alter prices for different room types. For the users, it will allow them to add multiple rooms to their reservation at once.
+•	A shopping cart feature for users to review selected rooms before finalizing the reservation.
+•	Integration of a payment system for secure processing of credit card information.
+•	A booking management system where users can view their past and future reservations. They will also be able to modify or cancel their reservations before the check-in date.
+•	An admin module for hotel staff to manage room availability, view bookings, and generate occupancy reports.
+•	Transaction confirmation system including transaction IDs and confirmation emails to users.
+Excluded from the Project:
+•	Integration with third-party travel websites or external booking platforms.
+•	Development of a mobile application; the project will focus solely on a web-based system.
+•	Advanced analytics or machine learning capabilities for predicting booking trends.
+Milestones:
+•	Completion of user registration and login functionality.
+•	Development of the room management and reservation process.
+•	Implementation of the shopping cart and checkout system.
+•	Integration of the admin module for hotel staff.
+•	Testing and final deployment of the system.
+Constraints:
+•	Limited to a 14-week timeline for project completion.
+•	Our team only will have 2 members working on it.
+2. Problem Identification
+The main problem we will be facing is the implementation of the new hotel reservation system and having all the old employees become acclimated to it. A reason behind this issue is the fact that many of the older and more experienced employees within the company would have already gotten used to the older system, leading to them possibly needing more training for the new system. 
+3. Project Objectives
+The primary goal of this project is to develop a comprehensive Hotel Room Reservation System that enhances user experience and streamlines hotel operations.
+Objectives:
+•	Create a good user-friendly interface that allows them ease of access while being functional yet simple at the same time. This system should have the ability to handle a high influx of users during peak reservation times like major holidays.
+•	Design an intuitive and simple admin module that allows for the admin’s and managers’ ease of access to room availability, reservation, and room occupancy report systems. Feature a safe and secure login system that gives the admins a sense of ease that their systems will not go down easily.
+•	Provide a super secure and private payment system for the users that allows them to feel comfortable to enter their payment info like credit and debit cards.
+Measurable Targets:
+•	100% functionality for user registration, room management, and booking processes by the end of the project.
+•	Successful integration of a visual room availability feature, with feedback indicating ease of use from at least 80% of test users.
+•	Reduction in manual booking errors by 90% within the first month of deployment.
+
+The project plan starting 9/12/2024 is to orient development so all requirements are due on their respective due dates.
+
+Stage 2: The project analysis section, due 10/3/2024, will require implementing agile development and the scrum framework for a more efficient path for our SDLC.  Our requirements from then on out with the agile development and team-oriented framework will be listed alongside what the system must do and what non-functional requirements the system must adhere to. 
+
+Schedule for stage 2:
+
+1)	Meeting 9/19/2024 at 1:45 pm – 3:30 pm
+a)	Start stage 3 and plan out broad concepts
+b)	list what needs to be completed for next meetup
+
+2)	Meeting 9/26/2024 at 1:45 pm – 3:30 pm
+a)	Fill in the broad concepts with detail
+b)	Correct grammar and formatting before submission
+
+3)	Meeting 10/3/2024 at 1:45 pm – 3:30 pm
+a)	Extra time for touching up or doing the objectives in the other meetings
+
+
+
+Stage 3: The project design section due 10/31/2024 has multiple objectives. To start, case descriptions and diagrams will need to be constructed to describe and visualize the interaction between users and the system. Activity diagrams will be needed to represent the workflow of the team and sequence diagrams to describe how different functions work on a timeline. Lastly, a system model must be constructed for the data and relationships within in an entity-relationship diagram
+
+
+Schedule for stage 3:
+
+1)	Meeting 10/3/2024 at 1:45 pm – 3:30 pm
+a)	Create use case description(s) 
+b)	Create use case diagram(s)
+
+2)	Meeting 10/10/2024 at 1:45 pm – 3:30 pm
+a)	Create class diagram(s)
+b)	Create activity diagram(s)
+
+3)	Meeting 10/17/2024 at 1:45 pm – 3:30 pm
+a)	Create sequence diagram(s)
+b)	Create Entity-Relationship diagram & schema
+
+4)	Meeting 10/24/2024 at 1:45 pm – 3:30 pm
+a)	Correct grammar and formatting before submission
+
+5)	Meeting 10/31/2024 at 1:45 pm – 3:30 pm
+a)	Extra time for touching up or doing the objectives in the other meetings
+
+The final meetups after stage 4 will be reserved for project refinements and plans to present it to the class and are tentative from what we feel like needs done.
+
